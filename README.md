@@ -12,9 +12,9 @@
 
 ---
 
-## Sobre mim ✧
+## Sobre mim
 
-Oi! ☁️ Sou a Gabriela, estudante de **Análise e Desenvolvimento de Sistemas na UTFPR** e atualmente atuo na área de tecnologia como **Consultora Funcional SAP**.
+Oi! Sou a Gabriela, estudante de **Análise e Desenvolvimento de Sistemas na UTFPR** e atualmente atuo na área de tecnologia como **Consultora Funcional SAP**.
 
 Tenho experiência com **SAP ECC** e **SAP S/4HANA**, atuando principalmente com o módulo **CO (Controlling)** e com processos adicionais relacionados aos módulos **FI (Financial Accounting)** e **PS (Project System)**.
 
@@ -24,7 +24,7 @@ Busco sempre evoluir na área que amo (tecnologia), ampliando tanto minha visão
 
 ---
 
-## O que você vai encontrar por aqui ⤵
+## O que vamos encontrar por aqui ⤵
 
 ♡ Projetos acadêmicos e pessoais <br>
 ꕤ Estudos <br>
@@ -32,7 +32,7 @@ Busco sempre evoluir na área que amo (tecnologia), ampliando tanto minha visão
 
 ---
 
-## ✦ Tech Stack ✦
+## Tech Stack
 
 ### Sistema ERP SAP
 
@@ -63,11 +63,11 @@ Busco sempre evoluir na área que amo (tecnologia), ampliando tanto minha visão
 
 ## Atualmente...
 
-Cursando **Análise e Desenvolvimento de Sistemas — UTFPR** ✿
+Cursando **Análise e Desenvolvimento de Sistemas — UTFPR**
 
-Atuando como **Consultora Funcional SAP CO — Trainee** ♡
+Atuando como **Consultora Funcional SAP CO — Trainee**
 
-Aprofundando meus conhecimentos em **desenvolvimento web, back-end, Java e sistemas em geral** ✦
+Aprofundando meus conhecimentos em **desenvolvimento web, back-end, Java e sistemas em geral**
 
 ---
 
@@ -95,7 +95,7 @@ Projeto desenvolvido com foco no gerenciamento de eventos e convidados, utilizan
 
 ---
 
-## ⌄ Vamos nos conectar? ⌄
+## Vamos nos conectar?
 
 <div align="center">
 
@@ -112,8 +112,8 @@ Projeto desenvolvido com foco no gerenciamento de eventos e convidados, utilizan
 💻 Transformando curiosidade em conhecimento, conhecimento em projetos  
 e cada novo aprendizado em mais um passo da minha trajetória na tecnologia. 🌙
 
-**Obrigada por visitar meu cantinho!**
-
 ୨୧ ─────────────── ୨୧
+
+**Obrigada por visitar meu cantinho!**
 
 </div>
