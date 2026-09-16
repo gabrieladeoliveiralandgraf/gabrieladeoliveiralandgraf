@@ -34,14 +34,6 @@ Aprofundando meus conhecimentos em **desenvolvimento web, back-end, Java e siste
 
 ---
 
-## O que você vai encontrar por aqui ⤵
-
-♡ Projetos acadêmicos e pessoais <br>
-ꕤ Estudos <br>
-୨୧ Minha evolução geral na área da tecnologia
-
----
-
 ### Sistema ERP SAP
 
 ![SAP](https://img.shields.io/badge/SAP-F3D6DE?style=for-the-badge&logo=sap&logoColor=8A5A66)
@@ -69,6 +61,14 @@ Aprofundando meus conhecimentos em **desenvolvimento web, back-end, Java e siste
 
 ---
 
+## O que você vai encontrar por aqui ⤵
+
+♡ Projetos acadêmicos e pessoais <br>
+ꕤ Estudos <br>
+୨୧ Minha evolução geral na área da tecnologia
+
+---
+
 ## Vamos nos conectar?
 
 <div align="center">
@@ -87,19 +87,13 @@ Aprofundando meus conhecimentos em **desenvolvimento web, back-end, Java e siste
 
 `HTML` `CSS` `JavaScript`
 
-Projeto de desenvolvimento web criado com **HTML, CSS e JavaScript**, explorando conceitos de front-end, interatividade, acessibilidade e armazenamento de dados.
-
 ### 🏋🏻 Sistema de Academia
 
 `Java` `POO` `Collections`
 
-Sistema desenvolvido em **Java**, aplicando conceitos de **Programação Orientada a Objetos, Collections e interface gráfica**.
-
 ### 🎟️ Sistema de Eventos
 
 `Back-end` `API` `Banco de Dados`
-
-Projeto desenvolvido com foco no gerenciamento de eventos e convidados, utilizando conceitos de **back-end, APIs, banco de dados, rotas e serviços**.
 
 > Novos projetos acadêmicos e pessoais serão adicionados por aqui conforme meu avanço na jornada da tecnologia! ♡
 
