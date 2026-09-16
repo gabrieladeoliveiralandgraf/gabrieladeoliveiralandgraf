@@ -6,13 +6,13 @@
 
 `SAP` • `Tecnologia` • `Desenvolvimento` • `Sistema ERP`
 
-₊˚⊹ Aprendizado e evolução ⊹˚₊
+₊˚⊹ Tecnologia, aprendizado e evolução ⊹˚₊
 
 </div>
 
 ---
 
-## Sobre mim
+## Sobre mim ✧
 
 Oi! Sou a Gabriela, estudante de **Análise e Desenvolvimento de Sistemas na UTFPR** e atualmente atuo na área de tecnologia como **Consultora Funcional SAP**.
 
@@ -24,7 +24,17 @@ Busco sempre evoluir na área que amo (tecnologia), ampliando tanto minha visão
 
 ---
 
-## O que vamos encontrar por aqui ⤵
+## Atualmente...
+
+Cursando **Análise e Desenvolvimento de Sistemas — UTFPR**
+
+Atuando como **Consultora Funcional SAP CO — Trainee**
+
+Aprofundando meus conhecimentos em **desenvolvimento web, back-end, Java e sistemas em geral**
+
+---
+
+## O que você vai encontrar por aqui ⤵
 
 ♡ Projetos acadêmicos e pessoais <br>
 ꕤ Estudos <br>
@@ -32,7 +42,7 @@ Busco sempre evoluir na área que amo (tecnologia), ampliando tanto minha visão
 
 ---
 
-## Tech Stack
+## ୨ Tech Stack ୧
 
 ### Sistema ERP SAP
 
@@ -61,17 +71,19 @@ Busco sempre evoluir na área que amo (tecnologia), ampliando tanto minha visão
 
 ---
 
-## Atualmente...
+## Vamos nos conectar?
 
-Cursando **Análise e Desenvolvimento de Sistemas — UTFPR**
+<div align="center">
 
-Atuando como **Consultora Funcional SAP CO — Trainee**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela_Landgraf-F3D6DE?style=for-the-badge&logo=linkedin&logoColor=8A5A66)](https://www.linkedin.com/in/gabriela-landgraf)
 
-Aprofundando meus conhecimentos em **desenvolvimento web, back-end, Java e sistemas em geral**
+[![Email](https://img.shields.io/badge/GabrieladeOliveiraLandgraf-F3D6DE?style=for-the-badge&logo=gmail&logoColor=8A5A66)](mailto:gabrieladeoliveiralandgraf@gmail.com)
+
+</div>
 
 ---
 
-## Projetos, até o momento
+## Projetos desenvolvidos até o momento ♡
 
 ### 🍰 Loja Doce História
 
@@ -95,22 +107,10 @@ Projeto desenvolvido com foco no gerenciamento de eventos e convidados, utilizan
 
 ---
 
-## Vamos nos conectar?
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela_Landgraf-F3D6DE?style=for-the-badge&logo=linkedin&logoColor=8A5A66)](https://www.linkedin.com/in/gabriela-landgraf)
-
-[![Email](https://img.shields.io/badge/GabrieladeOliveiraLandgraf-F3D6DE?style=for-the-badge&logo=gmail&logoColor=8A5A66)](mailto:gabrieladeoliveiralandgraf@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-💻 Transformando curiosidade em conhecimento, conhecimento em projetos  
-e cada novo aprendizado em mais um passo da minha trajetória na tecnologia. 🌙
+₊˚⊹ Transformando curiosidade em conhecimento, conhecimento em projetos  
+e cada novo aprendizado em mais um passo da minha trajetória na tecnologia ⊹˚₊
 
 ୨୧ ─────────────── ୨୧
 
