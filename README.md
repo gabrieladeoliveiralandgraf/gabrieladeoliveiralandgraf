@@ -42,8 +42,6 @@ Aprofundando meus conhecimentos em **desenvolvimento web, back-end, Java e siste
 
 ---
 
-## ୨ Tech Stack ୧
-
 ### Sistema ERP SAP
 
 ![SAP](https://img.shields.io/badge/SAP-F3D6DE?style=for-the-badge&logo=sap&logoColor=8A5A66)
