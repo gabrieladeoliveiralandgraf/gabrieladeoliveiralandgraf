@@ -2,7 +2,7 @@
 
 # ✦ Gabriela de Oliveira Landgraf ✦
 
-### Consultora Funcional SAP | Estudante de Análise e Desenvolvimento de Sistemas
+### Consultora Funcional SAP | Estudante de Análise e Desenvolvimento de Sistemas - UTFPR
 
 `SAP` • `Tecnologia` • `Desenvolvimento` • `Sistema ERP`
 
@@ -36,28 +36,28 @@ Busco sempre evoluir na área que amo (tecnologia), ampliando tanto minha visão
 
 ### Sistema ERP SAP
 
-![SAP](https://img.shields.io/badge/SAP-B497D6?style=for-the-badge&logo=sap&logoColor=white)
-![SAP CO](https://img.shields.io/badge/SAP_CO-C8A2C8?style=for-the-badge)
-![SAP FI](https://img.shields.io/badge/SAP_FI-D8A7B1?style=for-the-badge)
-![SAP PS](https://img.shields.io/badge/SAP_PS-DB7093?style=for-the-badge)
-![SAP ECC](https://img.shields.io/badge/SAP_ECC-E6B7C1?style=for-the-badge)
-![SAP S/4HANA](https://img.shields.io/badge/S%2F4HANA-B784A7?style=for-the-badge&logo=sap&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-F3D6DE?style=for-the-badge&logo=sap&logoColor=8A5A66)
+![SAP CO](https://img.shields.io/badge/SAP_CO-F3D6DE?style=for-the-badge&logoColor=8A5A66)
+![SAP FI](https://img.shields.io/badge/SAP_FI-F3D6DE?style=for-the-badge&logoColor=8A5A66)
+![SAP PS](https://img.shields.io/badge/SAP_PS-F3D6DE?style=for-the-badge&logoColor=8A5A66)
+![SAP ECC](https://img.shields.io/badge/SAP_ECC-F3D6DE?style=for-the-badge&logoColor=8A5A66)
+![SAP S/4HANA](https://img.shields.io/badge/S%2F4HANA-F3D6DE?style=for-the-badge&logo=sap&logoColor=8A5A66)
 
 ### Desenvolvimento
 
-![Java](https://img.shields.io/badge/Java-B497D6?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F4C2C2?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-D88CA0?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-C8A2C8?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-D8A7B1?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-B39DDB?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F3D6DE?style=for-the-badge&logo=openjdk&logoColor=8A5A66)
+![JavaScript](https://img.shields.io/badge/JavaScript-F3D6DE?style=for-the-badge&logo=javascript&logoColor=8A5A66)
+![HTML5](https://img.shields.io/badge/HTML5-F3D6DE?style=for-the-badge&logo=html5&logoColor=8A5A66)
+![CSS3](https://img.shields.io/badge/CSS3-F3D6DE?style=for-the-badge&logo=css3&logoColor=8A5A66)
+![C](https://img.shields.io/badge/C-F3D6DE?style=for-the-badge&logo=c&logoColor=8A5A66)
+![C++](https://img.shields.io/badge/C++-F3D6DE?style=for-the-badge&logo=cplusplus&logoColor=8A5A66)
 
 ### Ferramentas
 
-![Git](https://img.shields.io/badge/Git-C97B9B?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-A678B4?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-B39DDB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-D8A7B1?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F3D6DE?style=for-the-badge&logo=git&logoColor=8A5A66)
+![GitHub](https://img.shields.io/badge/GitHub-F3D6DE?style=for-the-badge&logo=github&logoColor=8A5A66)
+![VS Code](https://img.shields.io/badge/VS_Code-F3D6DE?style=for-the-badge&logo=visualstudiocode&logoColor=8A5A66)
+![NetBeans](https://img.shields.io/badge/NetBeans-F3D6DE?style=for-the-badge&logo=apachenetbeanside&logoColor=8A5A66)
 
 ---
 
@@ -99,9 +99,9 @@ Projeto desenvolvido com foco no gerenciamento de eventos e convidados, utilizan
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela_Landgraf-DB7093?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-landgraf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriela_Landgraf-F3D6DE?style=for-the-badge&logo=linkedin&logoColor=8A5A66)](https://www.linkedin.com/in/gabriela-landgraf)
 
-[![Email](https://img.shields.io/badge/GabrieladeOliveiraLandgraf-B784A7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrieladeoliveiralandgraf@gmail.com)
+[![Email](https://img.shields.io/badge/GabrieladeOliveiraLandgraf-F3D6DE?style=for-the-badge&logo=gmail&logoColor=8A5A66)](mailto:gabrieladeoliveiralandgraf@gmail.com)
 
 </div>
 
