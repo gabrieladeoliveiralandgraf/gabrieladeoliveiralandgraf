@@ -58,6 +58,12 @@ Aprofundando meus conhecimentos em **desenvolvimento web, back-end, Java e siste
 
 `Back-end` `API` `Banco de Dados`
 
+### 🎮 Labirinto Recursivo
+
+`C` `Recursividade` `Backtracking`
+
+🔗 [Repositório](https://github.com/gabrieladeoliveiralandgraf/labirinto-recursivo)
+
 > Novos projetos acadêmicos e pessoais serão adicionados por aqui conforme meu avanço nessa jornada!
 
 ---
