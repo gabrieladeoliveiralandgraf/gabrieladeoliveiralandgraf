@@ -2,7 +2,7 @@
 
 #  Gabriela Landgraf 
 
-### Consultora Funcional SAP | Estudante de Análise e Desenvolvimento de Sistemas - UTFPR
+### Consultora Funcional Sistema SAP | Estudante de Análise e Desenvolvimento de Sistemas - UTFPR
 
 `Tecnologia` • `Desenvolvimento` • `Sistema ERP SAP`
 
@@ -14,11 +14,7 @@
 
 Oi! Sou a Gabriela, estudante de **Análise e Desenvolvimento de Sistemas na UTFPR** e atualmente atuo na área de tecnologia como **Consultora Funcional SAP**.
 
-Tenho experiência com **SAP ECC** e **SAP S/4HANA**, atuando principalmente com o módulo **CO (Controlling)** e com processos adicionais relacionados aos módulos **FI (Financial Accounting)** e **PS (Project System)**.
-
-Na graduação, venho desenvolvendo meus conhecimentos em **programação, desenvolvimento web, orientação a objetos, banco de dados e construção de sistemas**.
-
-Buscando sempre evoluir na área que amo, ampliando tanto minha visão funcional de negócio quanto meus conhecimentos técnicos.
+Na graduação, venho desenvolvendo meus conhecimentos em **programação, desenvolvimento web, orientação a objetos, banco de dados e construção de sistemas**.\
 
 ---
 
@@ -101,6 +97,6 @@ e cada novo aprendizado em mais um passo da minha trajetória na área da tecnol
 
  ─────────────── 
 
-**Obrigada por visitar meu cantinho!**
+**Obrigada por visitar!**
 
 </div>
