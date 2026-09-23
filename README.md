@@ -14,7 +14,7 @@
 
 Oi! Sou a Gabriela, estudante de **Análise e Desenvolvimento de Sistemas na UTFPR** e atualmente atuo na área de tecnologia como **Consultora Funcional SAP**.
 
-Na graduação, venho desenvolvendo meus conhecimentos em **programação, desenvolvimento web, orientação a objetos, banco de dados e construção de sistemas**.\
+Na graduação, venho desenvolvendo meus conhecimentos em **programação, desenvolvimento web, orientação a objetos, banco de dados e construção de sistemas**.
 
 ---
 
